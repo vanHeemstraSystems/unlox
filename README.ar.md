@@ -2,7 +2,7 @@
 
 # إفتح
 
-> Unlock your Mac with your fingerprint, wrist or face.
+> افتح قفل جهاز Mac الخاص بك ببصمة إصبعك أو معصمك أو وجهك.
 
 بناء على "Unlox" في<https://unlox.it/>
 
@@ -14,7 +14,7 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 – بناء تطبيقنا
+## 300 - Building Our Application
 
 يرى[README.md](./300/README.md)
 
