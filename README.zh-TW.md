@@ -1,8 +1,10 @@
-儲存庫名稱
+解鎖
 
-# 儲存庫名稱
+# 解鎖
 
-基於“ABC”<https://www.abc.com/>
+> 使用指紋、手腕或臉部解鎖您的 Mac。
+
+Based on "Unlox" at <https://unlox.it/>
 
 ## 100 - 簡介
 
