@@ -1,8 +1,10 @@
-اسم المستودع
+افتح
 
-# اسم المستودع
+# إفتح
 
-استنادا إلى "ABC" في<https://www.abc.com/>
+> Unlock your Mac with your fingerprint, wrist or face.
+
+بناء على "Unlox" في<https://unlox.it/>
 
 ## 100- مقدمة
 
@@ -10,7 +12,7 @@
 
 ## 200 - المتطلبات
 
-يرى[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 – بناء تطبيقنا
 
