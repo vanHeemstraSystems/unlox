@@ -4,7 +4,7 @@
 
 > 使用指紋、手腕或臉部解鎖您的 Mac。
 
-Based on "Unlox" at <https://unlox.it/>
+基於“Unlox”<https://unlox.it/>
 
 ## 100 - 簡介
 
@@ -12,7 +12,7 @@ Based on "Unlox" at <https://unlox.it/>
 
 ## 200 - 要求
 
-看[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - 建立我們的應用程式
 
