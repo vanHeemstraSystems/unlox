@@ -1,8 +1,8 @@
 अनलॉक
 
-# Unlox
+# अनलॉक
 
-> अपने मैक को अपने फिंगरप्रिंट, कलाई या चेहरे से अनलॉक करें।
+> Unlock your Mac with your fingerprint, wrist or face.
 
 "अनलॉक्स" पर आधारित<https://unlox.it/>
 
